@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: 'Inter', sans-serif;
 }
 
 body {
@@ -13,7 +14,7 @@ body {
 }
 
 main {
-  font-family: "inter", sans-serif;
+  font-family: 'inter', sans-serif;
   background-color: var(--grey-800);
   width: 327px;
   height: 579px;
