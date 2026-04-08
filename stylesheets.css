@@ -15,7 +15,6 @@ body {
 }
 
 main {
-  font-family: "inter", sans-serif;
   background-color: var(--grey-800);
   padding: 1.5rem;
   border-radius: 0.75rem;
