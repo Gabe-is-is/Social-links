@@ -35,7 +35,7 @@ img {
 h1 {
   color: var(--white);
   font-size: 1.5rem;
-  font-weight: 500;
+  font-weight: 600;
   margin-bottom: 0.25rem;
   line-height: 1.5;
 }
@@ -43,7 +43,7 @@ h1 {
 p {
   color: var(--green);
   font-size: 0.875rem;
-  font-weight: 600;
+  font-weight: bold;
   margin-bottom: 1.5rem;
   line-height: 1.5;
 }
@@ -87,7 +87,7 @@ li:hover a {
 
 li a {
   color: var(--white);
-  font-weight: 600;
+  font-weight: bold;
   text-decoration: none;
   transition: color 0.2s;
 }
